@@ -16,4 +16,4 @@ Hi there 👋 I'm Samuel Emmanuel. A DevOps engineer with passion for infrastruc
 📚 Outside of my professional pursuits, I have a passion for reading and travelling. I also love volunteering for NGOs to visit the vulnerables in the community, spending time with them and giving them the message of hope.
 
 ## Connect with Me
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/samuel-eneojo-emmanuel-b78a18b9/), check me out on my [personal profile](http://dsamist.me/), or here on GitHub! Let's work together and make the amazing projects with cloud native solutions.
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/samuel-eneojo-emmanuel-b78a18b9/), check me out on my [personal profile](http://dsamist.me/), or here on GitHub! Let's work together and make amazing projects with cloud native solutions.
